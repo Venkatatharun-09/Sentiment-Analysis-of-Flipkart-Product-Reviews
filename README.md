@@ -3,7 +3,7 @@ This project builds a Machine Learning pipeline to classify Flipkart product rev
 All experiments are tracked and managed using MLflow, and the results are shown through an interactive application.
 
 Project Overview
-CCustomer reviews are an important source of feedback for e-commerce platforms.
+Customer reviews are an important source of feedback for e-commerce platforms.
 This project analyzes review text and predicts the sentiment of a review based on its rating.
 
 Sentiment Rules
